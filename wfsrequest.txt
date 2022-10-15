@@ -1,0 +1,1 @@
+http://geodash.gov.bd:80/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Alevel_1_administrative_areas&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&access_token=be56269a4c4411ed9cd9286ed488c993&srsName=EPSG%3A4326
